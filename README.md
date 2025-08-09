@@ -6,7 +6,7 @@ using `requests` and `BeautifulSoup`. The scraped data is processed into a panda
 
 ---
 
-## 📌 What It Does
+##  What It Does
 
 - Sends a GET request to the Wikipedia page
 - Uses BeautifulSoup to locate and parse the first HTML table
@@ -16,7 +16,7 @@ using `requests` and `BeautifulSoup`. The scraped data is processed into a panda
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 3
 - Jupyter Notebook
